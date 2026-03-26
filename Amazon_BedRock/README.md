@@ -19,3 +19,5 @@ Mistral 7B comparado ao Meta LLama 3
 
 Simulação de Atendimento entre Cliente e Bot AI para comparar produtos e compras através do assistente de IA. 
 <img width="833" height="448" alt="image" src="https://github.com/user-attachments/assets/c109f9ea-d9a3-47ba-8789-0139f72cb20c" />
+
+Por fim, as imagens geradas foram anexadas na pasta BedRock. 
