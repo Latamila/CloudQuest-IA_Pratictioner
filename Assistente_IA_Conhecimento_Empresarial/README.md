@@ -1,3 +1,15 @@
+Como fazer a ingestão de Dados no S3:
+Escolha o S3 a ser feito a ingestão dos dados. Nesse caso, deve ser o sales-report, porque havia feito a primeira etapa, que é da mesma forma. 
+
+<img width="631" height="481" alt="image" src="https://github.com/user-attachments/assets/51f1de08-e2e5-4fd0-8ddc-e5a4eb4a849b" />
+
+Clique em carregar e adicione o arquivo correspondente. Sales_Report. Clique para carregar logo abaixo. 
+
+<img width="890" height="400" alt="image" src="https://github.com/user-attachments/assets/103260f5-6b11-410c-b1fa-f838daefd309" />
+
+<img width="817" height="402" alt="image" src="https://github.com/user-attachments/assets/e87cb1c6-6aed-4e15-a534-48fcd7337ac7" />
+
+
 Sincronização da Base de Conhecimento com o S3
 <img width="960" height="853" alt="image" src="https://github.com/user-attachments/assets/557a28df-cf8a-42ac-bb67-d46a56721353" />
 
