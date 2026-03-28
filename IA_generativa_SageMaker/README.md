@@ -48,10 +48,14 @@ Inclui meu endpoint recebido no deploy do modelo.
 
 <img width="843" height="837" alt="image" src="https://github.com/user-attachments/assets/6349b861-ef96-493c-9fd7-9583c1e3c59b" />
 
-<img width="840" height="439" alt="image" src="https://github.com/user-attachments/assets/db226b02-d54f-40ef-9ce4-f2003071315e" />
+<img width="840" height="439" alt="image" sr<img width="1382" height="278" alt="image" src="https://github.com/user-attachments/assets/5dac06d2-cd95-46f1-b782-e48db7ed8546" />
+c="https://github.com/user-attachments/assets/db226b02-d54f-40ef-9ce4-f2003071315e" />
 
 Agora, implantei um outro modelo para comparação das saídas com o modelo Mistral Lite.
 
 <img width="950" height="919" alt="image" src="https://github.com/user-attachments/assets/1a35759c-e2fb-423c-8753-c79b18d4751a" />
 
 Um novo Endpoint gerado novamente
+<img width="1343" height="164" alt="image" src="https://github.com/user-attachments/assets/230e03b6-cbbf-4235-abe1-7de6c72f8117" />
+
+<img width="893" height="474" alt="image" src="https://github.com/user-attachments/assets/7a00b0e7-874b-4303-9539-116874e9adb3" />
