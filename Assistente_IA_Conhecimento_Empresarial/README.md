@@ -59,3 +59,19 @@ Sincronizando a base de conhecimento com o bucket. Clicar em sincronizar.
 Fiz duas sincronizações 
 
 <img width="641" height="641" alt="image" src="https://github.com/user-attachments/assets/1bbfbe3d-f963-4214-a8f4-5b308354305f" />
+
+Deve-se retornar à base de conhecimento, clicando no canto esquerdo e selecionando a base de conhecimento sales-kb, para testá-lo. Clicar no botao testar base de conhecimento. 
+
+<img width="641" height="641" alt="image" src="https://github.com/user-attachments/assets/73561df7-633e-410d-976f-b4397c13b1d7" />
+
+Selecione um modelo para ser aplicado na base de conhecimento.
+
+<img width="649" height="652" alt="image" src="https://github.com/user-attachments/assets/e81dc7a7-6fd3-45a5-9b31-e7b0d6216b64" />
+
+O modelo usado para este case foi o Amazon Nova lite. 
+
+<img width="661" height="736" alt="image" src="https://github.com/user-attachments/assets/36417121-50ed-45c5-8933-fa8aba6c0127" />
+
+<img width="635" height="427" alt="image" src="https://github.com/user-attachments/assets/c2aadf26-834d-4bbf-91c7-44accfb8862d" />
+
+<img width="620" height="628" alt="image" src="https://github.com/user-attachments/assets/80fff0a9-6c8e-43c5-b0b6-bed70866bde9" />
