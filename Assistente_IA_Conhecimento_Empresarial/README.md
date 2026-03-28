@@ -88,7 +88,11 @@ O modelo usado para este case foi o Amazon Nova lite.
 
 <img width="620" height="628" alt="image" src="https://github.com/user-attachments/assets/80fff0a9-6c8e-43c5-b0b6-bed70866bde9" />
 
-Adicionando uma segunda fonte de dados à base de conhecimento no bedrock. 
+Adicionando uma segunda fonte de dados à base de conhecimento no bedrock. Fazer a sincronização da nova fonte de dados. 
 
+<img width="695" height="650" alt="image" src="https://github.com/user-attachments/assets/ac7576ff-ec9f-486d-a56c-33e7e1707ecb" />
 
+Você criar vários buckets e adicionar diversas fontes de dados à sua base de conhecimentos. 
+
+<img width="877" height="464" alt="image" src="https://github.com/user-attachments/assets/81bc3b0b-a77b-43e4-a5cb-722a5d80fef4" />
 
