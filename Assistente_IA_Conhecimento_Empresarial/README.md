@@ -87,3 +87,8 @@ O modelo usado para este case foi o Amazon Nova lite.
 <img width="635" height="427" alt="image" src="https://github.com/user-attachments/assets/c2aadf26-834d-4bbf-91c7-44accfb8862d" />
 
 <img width="620" height="628" alt="image" src="https://github.com/user-attachments/assets/80fff0a9-6c8e-43c5-b0b6-bed70866bde9" />
+
+Adicionando uma segunda fonte de dados à base de conhecimento no bedrock. 
+
+
+
