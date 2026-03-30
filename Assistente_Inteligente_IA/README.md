@@ -1,7 +1,12 @@
 Neste laboratório, construi um assistente inteligente de IA. Criei uma base de conhecimento e um agente. Anexei a base de conhecimento ao agente e , em seguida, adicionei um rupo de ações. teste o agente para responder perguntas, extraidas da base de conhecimento, e realizar ações atraves do grupo de açções. 
 
 Para auxiliar os usuários com ações (em vez de apenas dar respostas), um grupo de ações, o agente pode invocar funções do aews lambda (ou outras chamadas de api) para executar as funções necessárioas para o usuário. Essas ações podem ser interadas totalmente aos sistemas existentes da empresa para fornecer uma experiência completa e fluída para os usuários, desde o envio da solicitação até a aprovação e conclusão. 
-
+-
+-Criei uma base de conhecimento do Amazon Bedrock.
+-Criei um agente do Amazon Bedrock para responder a perguntas usando as bases de conhecimento criadas. 
+-Adicionei um grupo de ações ao agente para invocar uma função do AWS LAMBDA para o envio de solicitações. 
+-Testei a funcionalidade do agente com sucesso. 
+-
 Iniciei com o S3.
 <img width="934" height="651" alt="image" src="https://github.com/user-attachments/assets/1bd2f618-04e9-4aa4-b732-0f210e63e07d" />
 
